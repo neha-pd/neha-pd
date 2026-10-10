@@ -51,16 +51,17 @@ These are personal projects, separate from my enterprise client work.
 
 ## On the workbench
 
-Four prototypes I’m developing around practical problems. **Work in progress**: these are early builds, with no claims of customers, adoption or production readiness.
+Five prototypes I’m developing around practical problems. **Work in progress**: these are early builds, with no claims of customers, adoption or production readiness.
 
 | Prototype | What you can try today | Explore |
 | :--- | :--- | :--- |
 | **Evidence Desk · Local retrieval** | Search text with BM25, inspect exact source passages and export evidence. AI synthesis is planned, not active. | [Demo](https://neha-pd.github.io/evidence-desk/) · [Source](https://github.com/neha-pd/evidence-desk) |
 | **ScopeGuard · Local rules** | Compare a brief with new requests, review keyword matches, choose scope decisions and export a change-request draft. AI analysis is planned. | [Demo](https://neha-pd.github.io/scopeguard/) · [Source](https://github.com/neha-pd/scopeguard) |
-| **ClearVue · Vue 3 components** | Try six reusable components, including keyboard-controlled tabs, a focus-managed dialog and labeled form errors. | [Demo](https://neha-pd.github.io/clearvue/) · [Source](https://github.com/neha-pd/clearvue) |
+| **ClearVue · Vue 3 components** | Explore 19 components, including a page-flip book, receipt and payment states, pointer mascot, chat UI and six chart types. | [Demo](https://neha-pd.github.io/clearvue/) · [Source](https://github.com/neha-pd/clearvue) |
+| **Inkwell · Vue 3 rich-text editor** | Write structured documents with tables, checklists, images, find/replace and HTML/Markdown exports. Download the installable preview package. | [Demo](https://neha-desai.de5.net/inkwell/) · [Source](https://github.com/neha-pd/inkwell-vue) |
 | **CareCommons · Community tools** | Filter a fictional volunteer noticeboard, make demo pledges and add sample needs with browser-local persistence. | [Demo](https://neha-pd.github.io/care-commons/) · [Source](https://github.com/neha-pd/care-commons) |
 
-These demos use fictional examples. CareCommons does not reserve real volunteer places; Evidence Desk and ScopeGuard do not call an AI service. See each repository for current limitations and checks.
+These demos use fictional examples. CareCommons does not reserve real volunteer places; Evidence Desk and ScopeGuard do not call an AI service. ClearVue payment states and AI chat are simulated; Inkwell is a single-user editor preview. These new prototypes were developed with AI assistance. See each repository for current limitations and checks.
 
 ## Notes from the workbench
 
