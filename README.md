@@ -1,5 +1,3 @@
-<img align="right" src="https://avatars.githubusercontent.com/u/37369276?v=4" width="96" height="96" alt="Neha Desai's GitHub avatar" />
-
 # Neha Desai
 
 **Frontend engineer. Product-minded builder.**
