@@ -58,12 +58,14 @@ These are personal projects, separate from my enterprise client work.
 
 Four prototypes I’m developing around practical problems. **Work in progress**: these are early builds, with no claims of customers, adoption or production readiness.
 
-| Prototype | The problem I’m exploring |
-| :--- | :--- |
-| **Evidence Desk · AI workflow** | Keeping findings connected to the source material behind them. |
-| **ScopeGuard · AI workflow** | Comparing new client requests with an agreed brief, then preparing an evidence-backed change request. |
-| **[ClearVue](https://github.com/neha-pd/clearvue) · UI components** | Reusing accessible Vue interaction patterns instead of solving the same details again. |
-| **[CareCommons](https://github.com/neha-pd/care-commons) · Community tools** | Giving NGO and community work a clearer coordination workflow. |
+| Prototype | What you can try today | Explore |
+| :--- | :--- | :--- |
+| **Evidence Desk · Local retrieval** | Search text with BM25, inspect exact source passages and export evidence. AI synthesis is planned, not active. | [Demo](https://neha-pd.github.io/evidence-desk/) · [Source](https://github.com/neha-pd/evidence-desk) |
+| **ScopeGuard · Local rules** | Compare a brief with new requests, review keyword matches, choose scope decisions and export a change-request draft. AI analysis is planned. | [Demo](https://neha-pd.github.io/scopeguard/) · [Source](https://github.com/neha-pd/scopeguard) |
+| **ClearVue · Vue 3 components** | Try six reusable components, including keyboard-controlled tabs, a focus-managed dialog and labeled form errors. | [Demo](https://neha-pd.github.io/clearvue/) · [Source](https://github.com/neha-pd/clearvue) |
+| **CareCommons · Community tools** | Filter a fictional volunteer noticeboard, make demo pledges and add sample needs with browser-local persistence. | [Demo](https://neha-pd.github.io/care-commons/) · [Source](https://github.com/neha-pd/care-commons) |
+
+These demos use fictional examples. CareCommons does not reserve real volunteer places; Evidence Desk and ScopeGuard do not call an AI service. See each repository for current limitations and checks.
 
 ## Where I can help
 
