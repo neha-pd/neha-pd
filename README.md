@@ -67,6 +67,14 @@ Four prototypes I’m developing around practical problems. **Work in progress**
 
 These demos use fictional examples. CareCommons does not reserve real volunteer places; Evidence Desk and ScopeGuard do not call an AI service. See each repository for current limitations and checks.
 
+## Notes from the workbench
+
+Short pieces about the product and engineering decisions behind these prototypes:
+
+- [Before an AI answer, show the evidence](https://medium.com/@nehadesai924117/before-an-ai-answer-show-the-evidence-af9eeedb2577) — source passages, citations and the limits of a confident answer.
+- [The expensive part of “one small change” is the ambiguity](https://medium.com/@nehadesai924117/the-expensive-part-of-one-small-change-is-the-ambiguity-faff1d55dad7) — making freelance scope decisions explicit.
+- [A component is more than its screenshot](https://medium.com/@nehadesai924117/a-component-is-more-than-its-screenshot-b6e4ba35f363) — keyboard behavior, focus and the component’s public API.
+
 ## Where I can help
 
 **Senior frontend engineering · Frontend leadership · Technical product delivery · Scoped freelance work**
