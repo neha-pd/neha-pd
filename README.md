@@ -1,48 +1,74 @@
 # Neha Desai
 
-**Frontend engineer. Product-minded builder.**
+<a href="https://neha-pd.github.io/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-cover-dark.webp">
+    <img src="assets/portfolio-cover-light.webp" alt="Neha Desai's portfolio preview: Complex work. Clear interfaces. Open the full portfolio." width="1200">
+  </picture>
+</a>
 
-I turn complex workflows into clear, accessible interfaces. My strongest production experience is in **Vue.js 2/3 and JavaScript**, with 8+ years across enterprise frontend engineering and technical delivery.
+**I work where product decisions meet the interface.**
 
-[Portfolio](https://neha-pd.github.io) · [LinkedIn](https://www.linkedin.com/in/neha-d-763481101) · [Email](mailto:nehadesai924117@gmail.com)
+I’m a frontend engineer with **8+ years of experience**, strongest in **Vue.js 2/3 and JavaScript**. I like making a complicated workflow easier to understand, use and maintain, then helping the team get it into people’s hands.
 
-## What I bring to a team
+[Explore my portfolio](https://neha-pd.github.io/) · [LinkedIn](https://www.linkedin.com/in/neha-d-763481101) · [Let’s talk](mailto:nehadesai924117@gmail.com)
 
-- **Frontend architecture:** reusable components, Vuex/Pinia, Vue Router and frontend-to-backend API contracts.
-- **Care for the user:** responsive interfaces, keyboard and screen-reader accessibility, and performance improvements.
-- **Delivery ownership:** translating stakeholder needs into technical requirements, reviewing code, mentoring engineers and coordinating work across design, product and backend teams.
+## The work behind the interface
 
-At **Cognizant**, I am a **Sr Software Associate** on the **Apple client account**, working on advisor-support and internal enterprise platforms. Earlier, I was a **Sr Analyst at Capgemini** on the **GE Aviation client account**.
+At **Cognizant**, I’m a **Sr Software Associate** on the **Apple client account**. Previously, I was a **Sr Analyst at Capgemini** on the **GE Aviation client account**.
 
-My work includes a **40% improvement in sprint velocity** on the VIMS/DMS workstream and a **15% reduction in initial load times** on GE Aviation platforms. My portfolio explains the context and my contribution without publishing confidential client code or screens.
+| Work | What I brought to it |
+| :--- | :--- |
+| **Core · Advisor support** | Vue 3 feature delivery, UI improvements informed by Radar reports, API contracts and cross-functional coordination. |
+| **VIMS & DMS · Facilities intelligence** | Frontend architecture, reusable patterns and delivery governance; a **40% improvement in sprint velocity** on the workstream. |
+| **Columba · Apple TV application** | Taking UX wireframes into reusable components and coordinating the design-to-engineering handoff. |
+| **GE Aviation · Manufacturing workflows** | Frontend components and integrations; **15% lower initial load times** through lazy loading, compression and caching. |
 
-## Personal projects, in the open
+I care about accessible interactions, clear API boundaries and code people can build on. My [professional case studies](https://neha-pd.github.io/#work) describe my contribution without exposing confidential client code or screens.
 
-These are personal projects, separate from my enterprise client work. They show the products and frontend ideas I explore beyond my day job.
+## Personal projects you can explore
 
 ### [Fitkin](https://github.com/neha-pd/caloriesTracker)
 
-Food, movement and everyday habits in one app: meal logging, progress views, routines and a companion called Kin. Built with **Expo and React Native**, with a web preview and an Android release. The project includes an offline food catalogue, optional online chat and device-dependent health integrations.
+<a href="https://github.com/neha-pd/caloriesTracker"><img align="right" src="https://raw.githubusercontent.com/neha-pd/caloriesTracker/main/docs/screenshots/today.png" width="170" alt="Fitkin Today screen using fictional demo food and activity data"></a>
 
-<a href="https://github.com/neha-pd/caloriesTracker">
-  <img src="https://raw.githubusercontent.com/neha-pd/caloriesTracker/main/docs/screenshots/today.png" width="190" alt="Fitkin Today screen showing fictional sample food and activity data" />
-  <img src="https://raw.githubusercontent.com/neha-pd/caloriesTracker/main/docs/screenshots/progress.png" width="190" alt="Fitkin progress calendar with fictional sample activity" />
-</a>
+**Food, movement and the small habits that add up.**
 
-<sub>Actual project screenshots using fictional demo data.</sub>
+An Expo and React Native project that brings meal logging, routines and progress together, with a companion called Kin. It includes offline food search, optional online chat and device-dependent health integrations.
+
+There’s a web preview and an Android release. It’s an early personal project, with real room for feedback and improvement.
+
+[Explore the source](https://github.com/neha-pd/caloriesTracker) · [Try the web demo](https://fitlens-kpph.onrender.com)
+
+<sub>The screenshot uses fictional demo data. Food values are estimates; device integrations depend on hardware and permissions.</sub>
+
+<br clear="right">
 
 ### [SettleUp](https://github.com/neha-pd/settle-up-simple)
 
-A group expense splitter with member balances, suggested settlements and PDF exports. **React and TypeScript** handle the interface and expense logic; Firebase supports authentication and profile data. A practical exploration of making everyday shared-money workflows easier to follow.
+**Make “who owes what?” a little less awkward.** A React and TypeScript expense splitter with member balances, suggested settlements and PDF exports. Firebase supports authentication and profile data.
 
 ### [Neat JSON Manager](https://github.com/neha-pd/neat-json-manager)
 
-A searchable frontend knowledge base with topic and subtopic navigation, entry creation, and light/dark themes. Built with **React, TypeScript and Vite**. The focus is helping readers find useful information without losing their place.
+**Find the useful bit without losing your place.** A searchable frontend knowledge base with topic and subtopic navigation, entry creation, and light/dark themes. Built with React, TypeScript and Vite.
 
-## Let's build something useful
+These are personal projects, separate from my enterprise client work.
 
-I am interested in **senior frontend roles, frontend leadership, technical product delivery and scoped freelance work**.
+## On the workbench
+
+Four prototypes I’m developing around practical problems. **Work in progress**: these are early builds, with no claims of customers, adoption or production readiness.
+
+| Prototype | The problem I’m exploring |
+| :--- | :--- |
+| **Evidence Desk · AI workflow** | Keeping findings connected to the source material behind them. |
+| **ScopeGuard · AI workflow** | Comparing new client requests with an agreed brief, then preparing an evidence-backed change request. |
+| **[ClearVue](https://github.com/neha-pd/clearvue) · UI components** | Reusing accessible Vue interaction patterns instead of solving the same details again. |
+| **[CareCommons](https://github.com/neha-pd/care-commons) · Community tools** | Giving NGO and community work a clearer coordination workflow. |
+
+## Where I can help
+
+**Senior frontend engineering · Frontend leadership · Technical product delivery · Scoped freelance work**
 
 Based in Bengaluru, India. Open to India-based remote engagements and international relocation with visa sponsorship.
 
-Reach me at **[nehadesai924117@gmail.com](mailto:nehadesai924117@gmail.com)**.
+Have a role, a product or a frontend problem in mind? **[Email me](mailto:nehadesai924117@gmail.com).**
