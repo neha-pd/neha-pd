@@ -1,17 +1,12 @@
-# Neha Desai
-
-<a href="https://neha-pd.github.io/portfolio-studio/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-cover-dark.webp">
-    <img src="assets/portfolio-cover-light.webp" alt="Neha Desai's portfolio preview: Complex work. Clear interfaces. Open the full portfolio." width="1200">
-  </picture>
+<a href="https://neha-desai.de5.net/">
+  <img src="assets/neha-profile-hero-v3.png" alt="Neha Desai. Complex work. Clear interfaces. Vue.js, accessibility and technical delivery. Open the portfolio." width="1200">
 </a>
 
 **I work where product decisions meet the interface.**
 
 I’m a frontend engineer with **8+ years of experience**, strongest in **Vue.js 2/3 and JavaScript**. I like making a complicated workflow easier to understand, use and maintain, then helping the team get it into people’s hands.
 
-[Explore my portfolio](https://neha-pd.github.io/portfolio-studio/) · [LinkedIn](https://www.linkedin.com/in/neha-d-763481101) · [Let’s talk](mailto:nehadesai924117@gmail.com)
+[Explore my portfolio](https://neha-desai.de5.net/) · [LinkedIn](https://www.linkedin.com/in/neha-d-763481101) · [Let’s talk](mailto:nehadesai924117@gmail.com)
 
 ## The work behind the interface
 
@@ -24,7 +19,7 @@ At **Cognizant**, I’m a **Sr Software Associate** on the **Apple client accoun
 | **Columba · Apple TV application** | Taking UX wireframes into reusable components and coordinating the design-to-engineering handoff. |
 | **GE Aviation · Manufacturing workflows** | Frontend components and integrations; **15% lower initial load times** through lazy loading, compression and caching. |
 
-I care about accessible interactions, clear API boundaries and code people can build on. My [professional case studies](https://neha-pd.github.io/portfolio-studio/#work) describe my contribution without exposing confidential client code or screens.
+I care about accessible interactions, clear API boundaries and code people can build on. My [professional case studies](https://neha-desai.de5.net/#work) describe my contribution without exposing confidential client code or screens.
 
 ## Personal projects you can explore
 
